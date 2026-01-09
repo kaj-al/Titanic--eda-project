@@ -1,0 +1,12 @@
+1.On average most passengers were young
+2.The min age was a few months and max age was 80 years.
+3.Out of all passengers 549 died and 342 survived
+4.Number of males was higher (577) than females (314)
+5.Most travelled in third class and fewest in second class.
+6.Majority was single passengers (608), and max number of siblings/spouse accompanying passenger was 5.
+7.678 passengers had no children, while only 6 passengers had one child.
+8.First class passengers had higher survival rates.
+9.Males were more prone to death.
+10.Passengers who embarked at C had higher survival rates, and those in first class were safer
+11.Passengers travelling with small families were safer.
+12.Passengers in B and D decks had higher survival rates.

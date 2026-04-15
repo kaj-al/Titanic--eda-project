@@ -6,18 +6,18 @@ Through visualization and statistical analysis, we gain insights into how featur
 ## Dataset 
 features included in the dataset:
 - Feature
-- 1. PassengerId
-- 2. Survived (0 = No, 1 = Yes)
-- 3. Pclass - Passenger class (1 = First, 2 = Second, 3 = Third)
-- 4. Name
-- 5. Sex -Gender of passenger
-- 6. Age
-- 7. SibSp - siblings/spouses aboard
-- 8. Parch - parents/children aboard
-- 9. Ticket
-- 10. Fare
-- 11. Cabin
-- 12. Embarked - Port of baording
+  1. PassengerId
+  2. Survived (0 = No, 1 = Yes)
+  3. Pclass - Passenger class (1 = First, 2 = Second, 3 = Third)
+  4. Name
+  5. Sex -Gender of passenger
+  6. Age
+  7. SibSp - siblings/spouses aboard
+  8. Parch - parents/children aboard
+  9. Ticket
+  10. Fare
+  11. Cabin
+  12. Embarked - Port of baording
 
 ## Objectives
 - Understand the structure of the dataset
